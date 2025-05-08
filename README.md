@@ -1,5 +1,5 @@
-# TrabajoProgra
-#crear entorno virtual(recomendado, no obligatorio)
+# TrabajoProgramación
+#crear entorno virtual(recomendado si se programa en Linux, en otro caso no es obligatorio)
 #- ejecutar pip install -r requirements.txt para instalar las librerias necesarias
 #- ejecutar
 #- asegurarse de estar usando la version Python 3.12
