@@ -7,6 +7,5 @@
 
 # - asegurarse de estar usando la version Python 3.12
 #crear entorno virtual(recomendado si se programa en Linux, en otro caso no es obligatorio)
-# - ejecutar pip install -r requirements.txt y pip install pillow para instalar las librerias necesarias
-# - ejecutar
-# - la ruta de la base de datos tiene que ser actualizada a la ruta correspondiente de su equipo (en otro caso usar rutas relativas)
+# - ejecutar pip install -r requirements.txt y pip install pillow dentro de la terminal para instalar las librerias necesarias
+# - la ruta de la Base de Datos tiene que ser actualizada a la ruta correspondiente de su equipo (en otro caso usar rutas relativas)
