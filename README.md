@@ -1,5 +1,5 @@
 # Ficha de Trabajadores
-# Esta programa es una aplicación de escritorio, la cual permite al usuario trabajar con la gestión de personas de la empresa Collahuasi, esta programa fue desarrollado con el lenguaje Python 3.12 y estructura framwork
+# Esta programa es una aplicación de escritorio, la cual permite al usuario trabajar con la gestión de personas de la empresa Collahuasi, esta programa fue desarrollado con el lenguaje Python 3.12 y estructura de librerias
 ## Requisitos del Sistema
 * ## Sistema operatico Windows 10/11, macOS Seguoia (V15)
 * ## Utilizar Visual Studio Code version 1.101.2(https://code.visualstudio.com/docs/?dv=win64user) /Pycharm Version 1.2(https://www.jetbrains.com/es-es/pycharm/download/?section=windows)
