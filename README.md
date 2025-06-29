@@ -1,4 +1,4 @@
-# TrabajoProgramación
+# Ficha de Trabajadores
 # Esta programa es una aplicación de escritorio, la cual permite al usuario trabajar con la gestión de personas de la empresa Collahuasi, esta programa fue desarrollado con el lenguaje Python 3.12 y estructura framwork
 ## Requisitos del Sistema
 * ## Sistema operatico Windows 10/11, macOS Seguoia (V15)
